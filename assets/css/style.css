@@ -1,0 +1,50 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.HEADER{
+
+    background-image: url(../images/major.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-sizing: border-box;
+    
+    
+}
+.navbar ul a{
+    list-style: none;
+    text-decoration: none;
+    color: white;
+    margin: 5px;
+
+}
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.custom-shape-divider-bottom-1617138502 {
+position: absolute;
+bottom: 0;
+left: 0;
+width: 100%;
+overflow: hidden;
+line-height: 0;
+}
+
+.custom-shape-divider-bottom-1617138502 svg {
+position: relative;
+display: block;
+width: calc(290% + 1.3px);
+height: 393px;
+}
+
+.custom-shape-divider-bottom-1617138502 .shape-fill {
+fill: #FFFFFF;
+}
+#option{
+    background: rgba(0, 0, 0, 0);
+    border: none;
+    color: white;
+}
